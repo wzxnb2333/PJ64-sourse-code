@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/glide64/GlideHQ
+END
+GlideHQ.rc
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/glide64/GlideHQ/GlideHQ.rc
+END
+TextureFilters_hq2x.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/glide64/GlideHQ/TextureFilters_hq2x.h
+END
+TxFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/glide64/GlideHQ/TxFilter.cpp
+END
+TextureFilters_hq4x.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/glide64/GlideHQ/TextureFilters_hq4x.h
+END
+TextureFilters_lq2x.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/glide64/GlideHQ/TextureFilters_lq2x.h
+END
+TextureFilters_2xsai.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/glide64/GlideHQ/TextureFilters_2xsai.h
+END
+TxTexCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/glide64/GlideHQ/TxTexCache.h
+END
+gpl-2.0.txt
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/glide64/GlideHQ/gpl-2.0.txt
+END
+TxQuantize.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/glide64/GlideHQ/TxQuantize.cpp
+END
+TxDbg.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/glide64/GlideHQ/TxDbg.h
+END
+TxCache.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/glide64/GlideHQ/TxCache.cpp
+END
+TxHiResCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/glide64/GlideHQ/TxHiResCache.h
+END
+TxReSample.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/glide64/GlideHQ/TxReSample.cpp
+END
+Ext_TxFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/glide64/GlideHQ/Ext_TxFilter.h
+END
+Makefile.gcc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/glide64/GlideHQ/Makefile.gcc
+END
+TxUtil.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/glide64/GlideHQ/TxUtil.cpp
+END
+TextureFilters.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/glide64/GlideHQ/TextureFilters.cpp
+END
+TextureFilters_hq2x.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/glide64/GlideHQ/TextureFilters_hq2x.cpp
+END
+TxInternal.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/glide64/GlideHQ/TxInternal.h
+END
+TextureFilters_hq4x.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/glide64/GlideHQ/TextureFilters_hq4x.cpp
+END
+bldno.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/glide64/GlideHQ/bldno.cpp
+END
+TextureFilters_2xsai.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/glide64/GlideHQ/TextureFilters_2xsai.cpp
+END
+TxTexCache.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/glide64/GlideHQ/TxTexCache.cpp
+END
+TxFilterExport.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/glide64/GlideHQ/TxFilterExport.cpp
+END
+TxImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/glide64/GlideHQ/TxImage.h
+END
+TxFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/glide64/GlideHQ/TxFilter.h
+END
+TxDbg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/glide64/GlideHQ/TxDbg.cpp
+END
+TxHiResCache.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/glide64/GlideHQ/TxHiResCache.cpp
+END
+Ext_TxFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/glide64/GlideHQ/Ext_TxFilter.cpp
+END
+TxQuantize.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/glide64/GlideHQ/TxQuantize.h
+END
+TxCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/glide64/GlideHQ/TxCache.h
+END
+TxReSample.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/glide64/GlideHQ/TxReSample.h
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/glide64/GlideHQ/README.txt
+END
+Makefile.vc8
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/glide64/GlideHQ/Makefile.vc8
+END
+TxImage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/glide64/GlideHQ/TxImage.cpp
+END
+TxUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/glide64/GlideHQ/TxUtil.h
+END
+TextureFilters.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/glide64/GlideHQ/TextureFilters.h
+END

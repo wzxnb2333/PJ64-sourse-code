@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/glide64/GlideHQ/test
+END
+test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/glide64/GlideHQ/test/test.cpp
+END
+Makefile.gcc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/glide64/GlideHQ/test/Makefile.gcc
+END
+Makefile.vc8
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/glide64/GlideHQ/test/Makefile.vc8
+END

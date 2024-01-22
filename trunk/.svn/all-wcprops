@@ -1,0 +1,701 @@
+K 25
+svn:wc:ra_dav:version-url
+V 22
+/svn/!svn/ver/14/trunk
+END
+Types.h
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/2/trunk/Types.h
+END
+r4300iRegisters.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/8/trunk/r4300iRegisters.cpp
+END
+mssccprj.scc
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/2/trunk/mssccprj.scc
+END
+FileUtil.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/13/trunk/FileUtil.cpp
+END
+Plugin_Input.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/13/trunk/Plugin_Input.cpp
+END
+Memory.h
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/13/trunk/Memory.h
+END
+MemTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/2/trunk/MemTest.cpp
+END
+Pif.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/14/trunk/Pif.cpp
+END
+Plugin_Audio.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/13/trunk/Plugin_Audio.cpp
+END
+about.htm
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/2/trunk/about.htm
+END
+Language.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/2/trunk/Language.cpp
+END
+RecompilerOps.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/10/trunk/RecompilerOps.cpp
+END
+Plugin_Video.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/14/trunk/Plugin_Video.cpp
+END
+X86.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/11/trunk/X86.cpp
+END
+InterpreterOps.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/8/trunk/InterpreterOps.cpp
+END
+Logging.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/8/trunk/Logging.cpp
+END
+Tlb.h
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/13/trunk/Tlb.h
+END
+BreakPoints.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2/trunk/BreakPoints.h
+END
+Eeprom.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/12/trunk/Eeprom.cpp
+END
+Main.h
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/13/trunk/Main.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/2/trunk/Makefile
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/2/trunk/resource.h
+END
+Profiling.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/13/trunk/Profiling.h
+END
+Mapping.h
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/2/trunk/Mapping.h
+END
+CPUAnalysis.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2/trunk/CPUAnalysis.h
+END
+x86fpu.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/3/trunk/x86fpu.cpp
+END
+ioapi.c
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/2/trunk/ioapi.c
+END
+HTMLHELP.LIB
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/2/trunk/HTMLHELP.LIB
+END
+RomBrowser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/11/trunk/RomBrowser.cpp
+END
+zip.c
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/3/trunk/zip.c
+END
+Exception.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/13/trunk/Exception.h
+END
+Win32Timer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/11/trunk/Win32Timer.cpp
+END
+right.ico
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/2/trunk/right.ico
+END
+Dma.h
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/13/trunk/Dma.h
+END
+ioapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/2/trunk/ioapi.h
+END
+zip.h
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/3/trunk/zip.h
+END
+Sram.h
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/13/trunk/Sram.h
+END
+Memory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/10/trunk/Memory.cpp
+END
+Mempak.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/12/trunk/Mempak.cpp
+END
+PJ64.ICO
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/2/trunk/PJ64.ICO
+END
+Cheats.h
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/13/trunk/Cheats.h
+END
+Registers.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/13/trunk/Registers.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/2/trunk/README
+END
+r4300iRegisters.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/r4300iRegisters.h
+END
+vssver.scc
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/2/trunk/vssver.scc
+END
+PJ64.BMP
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/2/trunk/PJ64.BMP
+END
+FileUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/13/trunk/FileUtil.h
+END
+Plugin_Input.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/14/trunk/Plugin_Input.h
+END
+Main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/13/trunk/Main.cpp
+END
+ZCONF.H
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/2/trunk/ZCONF.H
+END
+Plugin_Audio.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/14/trunk/Plugin_Audio.h
+END
+Cpu.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/12/trunk/Cpu.cpp
+END
+RecompilerOps.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/13/trunk/RecompilerOps.h
+END
+Language.h
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/13/trunk/Language.h
+END
+Project64.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/13/trunk/Project64.vcxproj
+END
+InterpreterOps.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/13/trunk/InterpreterOps.h
+END
+X86.h
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/13/trunk/X86.h
+END
+Eeprom.h
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/13/trunk/Eeprom.h
+END
+CicNus6105.txt
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/CicNus6105.txt
+END
+Exception.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/10/trunk/Exception.cpp
+END
+Project64.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/13/trunk/Project64.vcxproj.filters
+END
+Sram.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/12/trunk/Sram.cpp
+END
+Flashram.h
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/13/trunk/Flashram.h
+END
+r4300iCommands.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/8/trunk/r4300iCommands.cpp
+END
+Plugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/13/trunk/Plugin.h
+END
+Settings.h
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/13/trunk/Settings.h
+END
+ZLIB.H
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/2/trunk/ZLIB.H
+END
+unzip.c
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/3/trunk/unzip.c
+END
+main2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/2/trunk/main2.cpp
+END
+RomBrowser.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/13/trunk/RomBrowser.h
+END
+Win32Timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/13/trunk/Win32Timer.h
+END
+RecompilerCPU.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/11/trunk/RecompilerCPU.cpp
+END
+unzip.h
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/3/trunk/unzip.h
+END
+InterpreterCPU.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/10/trunk/InterpreterCPU.cpp
+END
+OpCode.h
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/2/trunk/OpCode.h
+END
+r4300iMemory.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/r4300iMemory.h
+END
+MEMPAK.H
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/13/trunk/MEMPAK.H
+END
+Cheat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/2/trunk/Cheat.cpp
+END
+PJ64.APS
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/11/trunk/PJ64.APS
+END
+CPULog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/8/trunk/CPULog.cpp
+END
+Cpu.h
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/13/trunk/Cpu.h
+END
+Rom.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/10/trunk/Rom.cpp
+END
+Plugin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/14/trunk/Plugin.cpp
+END
+SettingsApi.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/13/trunk/SettingsApi.h
+END
+Settings.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/14/trunk/Settings.cpp
+END
+PJ64.rc
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/2/trunk/PJ64.rc
+END
+crypt.h
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/3/trunk/crypt.h
+END
+TLBDisplay.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/8/trunk/TLBDisplay.cpp
+END
+tri-state.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2/trunk/tri-state.bmp
+END
+r4300iCommands.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/8/trunk/r4300iCommands.h
+END
+X86rsp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/2/trunk/X86rsp.cpp
+END
+r4300iMemory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/8/trunk/r4300iMemory.cpp
+END
+tlbDisplay.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/13/trunk/tlbDisplay.h
+END
+RecompilerCPU.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/13/trunk/RecompilerCPU.h
+END
+InterpreterCPU.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/13/trunk/InterpreterCPU.h
+END
+BreakPoints.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/11/trunk/BreakPoints.cpp
+END
+Tlb.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/8/trunk/Tlb.cpp
+END
+left.ico
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/2/trunk/left.ico
+END
+Pif.h
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/13/trunk/Pif.h
+END
+MemTest.h
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/2/trunk/MemTest.h
+END
+Debugger.h
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/13/trunk/Debugger.h
+END
+Plugin_Video.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/14/trunk/Plugin_Video.h
+END
+Profiling.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2/trunk/Profiling.cpp
+END
+SettingsApi.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/SettingsApi.cpp
+END
+Project64.sln
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2/trunk/Project64.sln
+END
+Debugger(build 56).reg
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/Debugger(build%2056).reg
+END
+CPUAnalysis.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/CPUAnalysis.cpp
+END
+Mapping.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/8/trunk/Mapping.cpp
+END
+Logging.h
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/13/trunk/Logging.h
+END
+FlashRam.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/12/trunk/FlashRam.cpp
+END
+CPULog.h
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/13/trunk/CPULog.h
+END
+RecompilerFpuOps.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/RecompilerFpuOps.cpp
+END
+Project64
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/2/trunk/Project64
+END
+Dma.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/11/trunk/Dma.cpp
+END
+Rom.h
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/13/trunk/Rom.h
+END
+Registers.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/10/trunk/Registers.cpp
+END

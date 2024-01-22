@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/glide64/GlideHQ/tc-1.1+
+END
+fxt1license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/glide64/GlideHQ/tc-1.1+/fxt1license.txt
+END
+dxtn.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/glide64/GlideHQ/tc-1.1+/dxtn.h
+END
+fxt1.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/glide64/GlideHQ/tc-1.1+/fxt1.c
+END
+fxt1.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/glide64/GlideHQ/tc-1.1+/fxt1.h
+END
+Makefile.gcc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/glide64/GlideHQ/tc-1.1+/Makefile.gcc
+END
+types.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/glide64/GlideHQ/tc-1.1+/types.h
+END
+Makefile.vc8
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/glide64/GlideHQ/tc-1.1+/Makefile.vc8
+END
+dxtn.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/glide64/GlideHQ/tc-1.1+/dxtn.c
+END
+texstore.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/glide64/GlideHQ/tc-1.1+/texstore.c
+END
+wrapper.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/glide64/GlideHQ/tc-1.1+/wrapper.c
+END
+internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/glide64/GlideHQ/tc-1.1+/internal.h
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/glide64/Glitch64/inc
+END
+glext.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/glide64/Glitch64/inc/glext.h
+END
+glidesys.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/glide64/Glitch64/inc/glidesys.h
+END
+3dfx.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/glide64/Glitch64/inc/3dfx.h
+END
+glide.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/glide64/Glitch64/inc/glide.h
+END
+glideutl.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/glide64/Glitch64/inc/glideutl.h
+END
+g3ext.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/glide64/Glitch64/inc/g3ext.h
+END
+wglext.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/glide64/Glitch64/inc/wglext.h
+END
+sst1vid.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/glide64/Glitch64/inc/sst1vid.h
+END
+dxdiag.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/glide64/Glitch64/inc/dxdiag.h
+END
+gl.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/glide64/Glitch64/inc/gl.h
+END

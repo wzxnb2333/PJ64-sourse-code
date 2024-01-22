@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 25
+/svn/!svn/ver/2/trunk/rsp
+END
+memory.c
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/2/trunk/rsp/memory.c
+END
+Types.h
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/2/trunk/rsp/Types.h
+END
+Recompiler CPU.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/rsp/Recompiler%20CPU.c
+END
+Recompiler Sections.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/rsp/Recompiler%20Sections.c
+END
+Rsp.h
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/2/trunk/rsp/Rsp.h
+END
+memory.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/2/trunk/rsp/memory.h
+END
+Recompiler CPU.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/rsp/Recompiler%20CPU.h
+END
+log.c
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/2/trunk/rsp/log.c
+END
+Recompiler Ops.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/rsp/Recompiler%20Ops.c
+END
+RSP Plugin.plg
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/rsp/RSP%20Plugin.plg
+END
+log.h
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/2/trunk/rsp/log.h
+END
+RSP.rc
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/2/trunk/rsp/RSP.rc
+END
+Cpu.c
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/2/trunk/rsp/Cpu.c
+END
+Recompiler Ops.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/rsp/Recompiler%20Ops.h
+END
+Profiling.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/rsp/Profiling.c
+END
+Cpu.h
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/2/trunk/rsp/Cpu.h
+END
+RSP Plugin.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/rsp/RSP%20Plugin.vcxproj
+END
+RSP Plugin.sln
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/rsp/RSP%20Plugin.sln
+END
+Profiling.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/rsp/Profiling.h
+END
+RSP Registers.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/rsp/RSP%20Registers.h
+END
+RSP Command.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/rsp/RSP%20Command.c
+END
+RSP Plugin.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/rsp/RSP%20Plugin.vcxproj.filters
+END
+Recompiler Analysis.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/rsp/Recompiler%20Analysis.c
+END
+RSP Command.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/rsp/RSP%20Command.h
+END
+RSP Register.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/rsp/RSP%20Register.c
+END
+Interpreter CPU.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/rsp/Interpreter%20CPU.c
+END
+OpCode.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/2/trunk/rsp/OpCode.h
+END
+Interpreter CPU.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/rsp/Interpreter%20CPU.h
+END
+Main.c
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/2/trunk/rsp/Main.c
+END
+X86.c
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/2/trunk/rsp/X86.c
+END
+Interpreter Ops.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/rsp/Interpreter%20Ops.c
+END
+X86.h
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/2/trunk/rsp/X86.h
+END
+Interpreter Ops.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/rsp/Interpreter%20Ops.h
+END
+Sse.c
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/2/trunk/rsp/Sse.c
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/rsp/resource.h
+END
+breakpoint.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/rsp/breakpoint.c
+END
+dma.c
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/2/trunk/rsp/dma.c
+END
+Mmx.c
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/2/trunk/rsp/Mmx.c
+END
+breakpoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/rsp/breakpoint.h
+END
+RSP.APS
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/2/trunk/rsp/RSP.APS
+END
+dma.h
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/2/trunk/rsp/dma.h
+END

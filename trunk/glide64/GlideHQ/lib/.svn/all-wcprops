@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/glide64/GlideHQ/lib
+END
+libpng.lib
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/glide64/GlideHQ/lib/libpng.lib
+END
+dxtn.lib
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/glide64/GlideHQ/lib/dxtn.lib
+END
+libpngd.lib
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/glide64/GlideHQ/lib/libpngd.lib
+END
+zlib.lib
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/glide64/GlideHQ/lib/zlib.lib
+END
+dxtnd.lib
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/glide64/GlideHQ/lib/dxtnd.lib
+END
+zlibd.lib
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/glide64/GlideHQ/lib/zlibd.lib
+END

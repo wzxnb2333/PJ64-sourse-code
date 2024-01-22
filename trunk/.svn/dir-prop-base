@@ -1,0 +1,14 @@
+K 10
+svn:ignore
+V 108
+Debug
+Project64.opensdf
+Project64.sdf
+Project64.suo
+Project64.vcxproj.user
+Release
+ipch
+*.opensdf
+*.opensdf
+
+END

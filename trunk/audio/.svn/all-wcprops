@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/2/trunk/audio
+END
+speex_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/audio/speex_types.h
+END
+os_support.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/audio/os_support.h
+END
+arch.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/2/trunk/audio/arch.h
+END
+sound_out.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/audio/sound_out.h
+END
+stack_alloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/audio/stack_alloc.h
+END
+sound_out_waveout.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/audio/sound_out_waveout.cpp
+END
+Basic Audio Plugin.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/audio/Basic%20Audio%20Plugin.vcxproj
+END
+sound_out_dsound.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/audio/sound_out_dsound.cpp
+END
+Basic Audio Plugin.sln
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/audio/Basic%20Audio%20Plugin.sln
+END
+fixed_generic.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/audio/fixed_generic.h
+END
+Audio.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/audio/Audio.cpp
+END
+circular_buffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/audio/circular_buffer.h
+END
+Basic Audio Plugin.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/audio/Basic%20Audio%20Plugin.vcxproj.filters
+END
+speex_resampler.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/audio/speex_resampler.h
+END
+Audio.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2/trunk/audio/Audio.h
+END
+resample.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/audio/resample.c
+END
+sound_out_xaudio2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/audio/sound_out_xaudio2.cpp
+END

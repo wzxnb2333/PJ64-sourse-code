@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/glide64/Glide64/lib
+END
+glide3x.lib
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/glide64/Glide64/lib/glide3x.lib
+END
+3dmathSIMD.obj
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/glide64/Glide64/lib/3dmathSIMD.obj
+END
+Texture.obj
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/glide64/Glide64/lib/Texture.obj
+END
+FixedPoint.obj
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/glide64/Glide64/lib/FixedPoint.obj
+END

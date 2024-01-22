@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/glide64/Glitch64
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/glide64/Glitch64/main.cpp
+END
+vram.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/glide64/Glitch64/vram.cpp
+END
+Makefile.gcc
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/glide64/Glitch64/Makefile.gcc
+END
+main.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/glide64/Glitch64/main.h
+END
+geometry.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/glide64/Glitch64/geometry.cpp
+END
+combiner.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/glide64/Glitch64/combiner.cpp
+END
+textures.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/glide64/Glitch64/textures.cpp
+END
+3dfx-mangling.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/glide64/Glitch64/3dfx-mangling.h
+END

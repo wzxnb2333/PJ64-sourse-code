@@ -1,0 +1,419 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/glide64/Glide64
+END
+ucodeFB.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/glide64/Glide64/ucodeFB.h
+END
+Combine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/glide64/Glide64/Combine.cpp
+END
+TexCache.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/glide64/Glide64/TexCache.cpp
+END
+3dmath.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/glide64/Glide64/3dmath.h
+END
+Ext_TxFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/glide64/Glide64/Ext_TxFilter.h
+END
+Makefile.gcc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/glide64/Glide64/Makefile.gcc
+END
+rdp.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/glide64/Glide64/rdp.h
+END
+TexLoad4b.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/glide64/Glide64/TexLoad4b.h
+END
+TexConv.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/glide64/Glide64/TexConv.h
+END
+FBtoScreen.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/glide64/Glide64/FBtoScreen.h
+END
+TexLoad8b.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/glide64/Glide64/TexLoad8b.h
+END
+TexBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/glide64/Glide64/TexBuffer.h
+END
+ucode00.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/glide64/Glide64/ucode00.h
+END
+ucode02.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/glide64/Glide64/ucode02.h
+END
+FixedPoint.asm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/glide64/Glide64/FixedPoint.asm
+END
+australia.xpm
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/glide64/Glide64/australia.xpm
+END
+ucode04.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/glide64/Glide64/ucode04.h
+END
+GlideExtensions.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/glide64/Glide64/GlideExtensions.h
+END
+Config.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/glide64/Glide64/Config.h
+END
+usa.xpm
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/glide64/Glide64/usa.xpm
+END
+ucode06.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/glide64/Glide64/ucode06.h
+END
+ucode08.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/glide64/Glide64/ucode08.h
+END
+CRC.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/glide64/Glide64/CRC.h
+END
+Keys.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/glide64/Glide64/Keys.h
+END
+Combine.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/glide64/Glide64/Combine.h
+END
+Ext_TxFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/glide64/Glide64/Ext_TxFilter.cpp
+END
+Util.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/glide64/Glide64/Util.h
+END
+rdp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/glide64/Glide64/rdp.cpp
+END
+turbo3D.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/glide64/Glide64/turbo3D.h
+END
+TexCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/glide64/Glide64/TexCache.h
+END
+DepthBufferRender.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/glide64/Glide64/DepthBufferRender.cpp
+END
+ucode.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/glide64/Glide64/ucode.h
+END
+TexLoad.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/glide64/Glide64/TexLoad.h
+END
+TexMod.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/glide64/Glide64/TexMod.h
+END
+brazil.xpm
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/glide64/Glide64/brazil.xpm
+END
+Config.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/glide64/Glide64/Config.cpp
+END
+CRC.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/glide64/Glide64/CRC.cpp
+END
+japan.xpm
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/glide64/Glide64/japan.xpm
+END
+Keys.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/glide64/Glide64/Keys.cpp
+END
+font.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/glide64/Glide64/font.h
+END
+Util.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/glide64/Glide64/Util.cpp
+END
+Gfx #1.3.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/glide64/Glide64/Gfx%20%231.3.h
+END
+gpl.txt
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/glide64/Glide64/gpl.txt
+END
+logo.xpm
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/glide64/Glide64/logo.xpm
+END
+build_asm.bat
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/glide64/Glide64/build_asm.bat
+END
+ucode09rdp.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/glide64/Glide64/ucode09rdp.h
+END
+Debugger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/glide64/Glide64/Debugger.cpp
+END
+russia.xpm
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/glide64/Glide64/russia.xpm
+END
+Texture.asm
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/glide64/Glide64/Texture.asm
+END
+DepthBufferRender.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/glide64/Glide64/DepthBufferRender.h
+END
+ucode01.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/glide64/Glide64/ucode01.h
+END
+ucode03.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/glide64/Glide64/ucode03.h
+END
+ucode05.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/glide64/Glide64/ucode05.h
+END
+MiClWr32b.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/glide64/Glide64/MiClWr32b.h
+END
+MiClWr16b.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/glide64/Glide64/MiClWr16b.h
+END
+ucode07.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/glide64/Glide64/ucode07.h
+END
+TexLoad32b.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/glide64/Glide64/TexLoad32b.h
+END
+ucode09.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/glide64/Glide64/ucode09.h
+END
+TexLoad16b.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/glide64/Glide64/TexLoad16b.h
+END
+3dmath.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/glide64/Glide64/3dmath.cpp
+END
+france.xpm
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/glide64/Glide64/france.xpm
+END
+TexModCI.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/glide64/Glide64/TexModCI.h
+END
+cursor.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/glide64/Glide64/cursor.h
+END
+Main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/glide64/Glide64/Main.cpp
+END
+Debugger.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/glide64/Glide64/Debugger.h
+END
+FBtoScreen.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/glide64/Glide64/FBtoScreen.cpp
+END
+TexBuffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/glide64/Glide64/TexBuffer.cpp
+END
+3dmathSIMD.asm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/glide64/Glide64/3dmathSIMD.asm
+END
+MiClWr8b.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/glide64/Glide64/MiClWr8b.h
+END
